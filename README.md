@@ -11,4 +11,4 @@ be in windowed
 
 it should look like this
 
-![solver setup]
+![solver setup](https://cdn.discordapp.com/attachments/749029257749200909/925957225518882836/example.png)
